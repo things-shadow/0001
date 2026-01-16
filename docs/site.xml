@@ -1,0 +1,278 @@
+<site>
+  <preference key="OpenPageAction.recent" value="C:\Program Files\Yahoo SiteBuilder\sites\shed\Price_List.html|C:\Program Files\Yahoo SiteBuilder\sites\shed\contact_us.html|C:\Program Files\Yahoo SiteBuilder\sites\shed\Constructions.html|C:\Program Files\Yahoo SiteBuilder\sites\shed\index.html"/>
+  <preference key="LinkChooser.FileChooser.path" value="C:\Program Files\Yahoo SiteBuilder\sites\shed\Files"/>
+  <asset id="%LocalDirectoryAsset:/sitebuilder">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/">
+  </asset>
+  <asset id="%PageAssetImpl:/Constructions.html">
+    <refers-to id="%ImageAssetImpl:/images/Custom Pigeon shed.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-89872.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Potting.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Custom Pent Roof-294x194.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Custom Pent Roof.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Jumbo-300x194.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Playhouse.JPG"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-89450.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-90059.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Custom Summer House.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Custom with sliding doors-294x193.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Apex-300x195.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/pageHeaders/green_sky_dark_title.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-89263.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Custom with sliding doors.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Dog Run.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/images/frames/light_green_black_border.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/Custom Pent 2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Summerhouse.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/green_sky_clouds_bar-700x17.jpg"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/lines/horizontal/green_sky_clouds_bar.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Summerhouse-300x195.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-89372.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Custom Pent 2-296x195.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Custom Summer House-297x194.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Dog Run-294x194.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Potting-295x196.jpg"/>
+    <refers-to id="%PageAssetImpl:/Constructions.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Playhouse-297x195.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Custom Pigeon shed-294x193.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/High Quality Strengthening A-Frame.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-89997.png"/>
+    <refers-to id="%PageAssetImpl:/contact_us.html"/>
+    <refers-to id="%ImageAssetImpl:/images/Custom Summer House 2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Custom Summer House 2-295x194.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/High Quality Strengthening A-Frame-295x194.jpg"/>
+    <refers-to id="%PageAssetImpl:/Price_List.html"/>
+    <refers-to id="%ImageAssetImpl:/images/Apex.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-89919.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-89497.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Jumbo.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Constructions_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/contact_us.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/green_sky_clouds_bar-700x17.jpg"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/lines/horizontal/green_sky_clouds_bar.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/map.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-89372.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-89872.png"/>
+    <refers-to id="%PageAssetImpl:/Constructions.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-89450.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-90059.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-89997.png"/>
+    <refers-to id="%PageAssetImpl:/contact_us.html"/>
+    <refers-to id="%PageAssetImpl:/Price_List.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/pageHeaders/green_sky_dark_title.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-89919.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-89263.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/images/frames/light_green_black_border.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-89497.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/map-636x599.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/contact_us_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/Files">
+  </asset>
+  <asset id="%LocalAsset:/Files/Price List.pdf">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/images">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Apex.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Custom Pent 2.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Custom Pent Roof.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Custom Pigeon shed.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Custom Summer House 2.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Custom Summer House.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Custom with sliding doors.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Dog Run.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/High Quality Strengthening A-Frame.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Jumbo.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Large Apex.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/map.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Playhouse.JPG">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Potting.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Summerhouse.jpg">
+  </asset>
+  <asset id="%LocalAsset:/images/Thumbs.db">
+  </asset>
+  <asset id="%PageAssetImpl:/index.html">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Jumbo-148x108.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-89872.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Potting.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Playhouse.JPG"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-89450.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Custom Summer House.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-90059.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Custom Summer House-148x108.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/inactive.gif"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/images/frames/dark_green_white_border.gif"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/pageHeaders/green_sky_dark_title.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-89263.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Dog Run.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Apex-148x108.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/green_sky_clouds_bar-756x17.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Potting-146x107.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Summerhouse.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Playhouse-146x106.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Dog Run-148x108.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Large Apex.jpg"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Large Apex-146x106.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/lines/horizontal/green_sky_clouds_bar.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-89372.png"/>
+    <refers-to id="%PageAssetImpl:/Constructions.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-89997.png"/>
+    <refers-to id="%PageAssetImpl:/contact_us.html"/>
+    <refers-to id="%PageAssetImpl:/Price_List.html"/>
+    <refers-to id="%ImageAssetImpl:/images/Apex.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-89919.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-89497.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Jumbo.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Summerhouse-148x108.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/index_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/navigation_bars">
+  </asset>
+  <asset id="%PageAssetImpl:/Price_List.html">
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/lines/horizontal/green_sky_clouds_bar.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/green_sky_clouds_bar-755x17.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-89372.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-89872.png"/>
+    <refers-to id="%LocalAsset:/Files/Price List.pdf"/>
+    <refers-to id="%PageAssetImpl:/Constructions.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-89450.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-90059.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/buttons/themes/forrest_green/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-89997.png"/>
+    <refers-to id="%PageAssetImpl:/contact_us.html"/>
+    <refers-to id="%PageAssetImpl:/Price_List.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/clipart/pageHeaders/green_sky_dark_title.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-89919.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-89263.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-89497.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Price_List_html.png"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Apex-148x108.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Apex-300x195.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Custom Pent 2-296x195.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Custom Pent Roof-294x194.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Custom Pigeon shed-294x193.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Custom Summer House 2-295x194.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Custom Summer House-148x108.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Custom Summer House-297x194.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Custom with sliding doors-294x193.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Dog Run-148x108.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Dog Run-294x194.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/green_sky_clouds_bar-700x17.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/green_sky_clouds_bar-755x17.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/green_sky_clouds_bar-756x17.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/High Quality Strengthening A-Frame-295x194.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Jumbo-148x108.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Jumbo-300x194.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Large Apex-146x106.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/map-636x599.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-89372.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-89263.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-89497.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-89450.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-89919.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-89872.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-90059.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-89997.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Playhouse-146x106.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Playhouse-297x195.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Potting-146x107.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Potting-295x196.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Summerhouse-148x108.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Summerhouse-300x195.jpg">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images/thumbnails">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/preview">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/save">
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/navbar.nav">
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-89372.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-89872.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Price_List.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/clipart/buttons/themes/forrest_green/inactive.gif"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/contact_us.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-89450.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-90059.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/clipart/buttons/themes/forrest_green/active.gif"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-89997.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-89263.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-89919.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-89497.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Constructions.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+  </asset>
+</site>
